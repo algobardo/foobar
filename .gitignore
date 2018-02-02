@@ -1,0 +1,5 @@
+# sbt specific
+target/
+project/boot/
+project/plugins/project/
+project/target
